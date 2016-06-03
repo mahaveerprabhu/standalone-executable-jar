@@ -1,0 +1,13 @@
+### Build Directories ###
+target/
+.gradle/
+build/
+
+### IDE Files ###
+*.iml
+.idea/
+.project
+
+### Other ###
+.DS_Store
+logs/
