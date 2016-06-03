@@ -19,9 +19,6 @@ public class CryptoTest {
 
     public static final String[] keys = {"xxxxxxxxxxxxxxxx", "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"};
 
-    public static final String KEY_CONFIG_PROPERTY = "paymentcards.crypto.key";
-
-
     private byte[] key;
 
     private static final String ALGORITHM = "AES";
